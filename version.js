@@ -1,0 +1,1 @@
+module.exports = GLOBAL.process.version
